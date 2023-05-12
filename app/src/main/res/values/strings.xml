@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Fitness</string>
+    <string name="txt_details">Details</string>
+    <string name="txt_bookings">Bookings</string>
+    <string name="bio">Bio</string>
+    <string name="dummy_text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque et augue et massa hendrerit iaculis in id lectus. Nullam pharetra neque non metus varius, gravida pharetra mauris maximus. Aliquam porta euismod augue, sit amet blandit ipsum vulputate sit amet. Pellentesque ornare neque et elit fringilla porta. Sed semper in libero quis ullamcorper. Mauris blandit rhoncus tempor. Phasellus efficitur sem massa, vitae lobortis nisi eleifend et. Integer vestibulum faucibus tortor ac viverra. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nunc vulputate ullamcorper arcu a bibendum. Proin fermentum dolor vel nisl cursus pulvinar. Maecenas efficitur id erat non porta. Pellentesque in dapibus nisi, ut dignissim lorem.</string>
+    <string name="book">BOOK</string>
+    <string name="contact">Contact</string>
+</resources>
